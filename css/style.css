@@ -1,0 +1,16 @@
+header{
+    background-color: #f1d0a523;
+}
+.shoe-card{
+    background-color: thistle;
+   
+}
+.logo{
+    max-width: 350px;
+}
+.logo img{
+    width: 100%;
+}
+.custom-margin{
+    margin-left: 100px;
+}
