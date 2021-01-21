@@ -2,8 +2,17 @@ header{
     background-color: #f1d0a523;
 }
 .shoe-card{
-    background-color: thistle;
+    background-color: #f8caf86b;
    
+   
+}
+.shoe-card, .card-radious, .formal-card{
+    border-radius: 30px;
+    border: 0;
+}
+
+.card-radious{
+    background-color:#f1d0a523;
 }
 .logo{
     max-width: 350px;
@@ -13,4 +22,15 @@ header{
 }
 .custom-margin{
     margin-left: 100px;
+}
+.btn-color{
+    background-color: #fcb603;
+}
+.section-title{
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.last-section-title{
+    font-size: 20px;
+    font-weight: 700;
 }
